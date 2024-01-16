@@ -1,0 +1,256 @@
+baseURL = "https://martindonat.github.io/"
+title = "Musik am Erfurter Dom"
+languageCode = "de-de"
+defaultContentLanguage = "de"
+paginate = "8"
+theme = "spectral"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+fancyTitle = '<img height="60" src="/images/logo_weiß.svg" alt="Logo"/><br />Musik am Erfurter Dom' # title for frontpage, may include image
+copyright = "Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V."
+description = 'Chormusik<br />Orgelmusik<br />Förderverein'
+startbuttonText = "Aktuelle Termine"
+startbuttonLink = "#three"
+body_is_markdown = true
+favicon = "images/favicon.png"
+tags = ["Dom Erfurt", "Kirchenmusik", "Chor"]
+#custom_css = "custom.css"
+#custom_sass = "bar.scss"
+#images = ["images/erfurt-nacht.jpg"]
+
+[params.meta]
+keywords = "Kirchenmusik, Erfurt, Dom, St. Laurentius, Chor, Orgel, music, sacred music, cathedral, organ, choir"
+
+
+[[params.menu.main]]
+url = '/'
+title = "Start"
+
+[[params.menu.main]]
+url = '/orgel/'
+title = "Orgelmusik"
+
+[[params.menu.main]]
+url = '/kujchor/'
+title = "Kinder- und Jugendchor"
+
+[[params.menu.main]]
+url = '/domchor/'
+title = "Domchor"
+
+[[params.menu.main]]
+url = '/pfarrei/'
+title = "Innenstadtpfarrei"
+
+[[params.menu.main]]
+url = '/verein/'
+title = "Förderverein"
+
+[[params.menu.main]]
+url = '/kontakt/'
+title = "Kontakt"
+
+[[params.menu.main]]
+url = '/impressum/'
+title = "Impressum und Credits"
+
+[[params.menu.main]]
+url = '/datenschutz/'
+title = "Datenschutz"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = true
+title = 'Herzlich Willkommen auf den Seiten der Erfurter Dommusik'
+body = '''
+Hier finden Sie Informationen zum musikalischen Geschehen am Erfurter Dom und in
+der katholischen Innenstadtpfarrei St. Laurentius. Ob Chor oder Orgel, liturgisch
+oder außerliturgisch, Kinder oder Erwachsene – blabla.
+'''
+
+#[[params.one.icon]]
+#icon = "fa-file"
+#style = "1"
+#label = "Lorem"
+
+#[[params.one.icon]]
+#icon = "fa-heart"
+#style = "2"
+#label = "Ipsum"
+
+#[[params.one.icon]]
+#icon = "solid fa-code"
+#style = "3"
+#label = "Dolor"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "images/orgel_dom2.jpeg"
+title = 'Orgelmusik'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[[params.two.section.link]]
+href = "/orgel/"
+text = "Zur Orgelmusik"
+special = false
+
+[[params.two.section]]
+img = "images/kujchor.jpg"
+img_alt = "blurry background: white/grey"
+title = 'Kinder- und Jugendchor <br /> am Erfurter Dom'
+body = '''Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+'''
+
+[[params.two.section.link]]
+href = "/kujchor/"
+text = "Zum Kinder- und Jugendchor"
+special = false
+
+[[params.two.section]]
+img = "images/DOM_Konzert_MG_4063F.jpg"
+title = 'Domchor'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[[params.two.section.link]]
+href = "/domchor/"
+text = "Zum Domchor"
+special = false
+
+[[params.two.section]]
+img = "images/severi.jpeg"
+title = 'Pfarrei St. Laurentius'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[[params.two.section.link]]
+href = "/pfarrei/"
+text = "Musik in der Innenstadtpfarrei"
+special = false
+
+[params.three]
+enable = true
+title = 'Aktuelle Termine'
+body = '''
+Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerliturgische Konzerte
+unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.
+'''
+
+[[params.three.feature]]
+icon = "solid fa-music"
+title = "26. November"
+body = "<b>18 Uhr St. Martini </b><br />Hl. Messe mit dem Ensemble Vocale Erfurt"
+
+[[params.three.feature]]
+icon = "solid fa-calendar"
+title = "5. Dezember"
+body = "<b>19 Uhr Dom St. Marien </b><br />Orgelkonzert mit Prof. Silvius von Kessel"
+
+[[params.three.feature]]
+icon = "solid fa-user-group"
+title = "26. November"
+body = "<b>18 Uhr St. Martini </b><br />Hl. Messe mit dem Ensemble Vocale Erfurt"
+
+[[params.three.feature]]
+icon = "solid fa-church"
+title = "26. November"
+body = "<b>18 Uhr St. Martini </b><br />Hl. Messe mit dem Ensemble Vocale Erfurt"
+
+[[params.three.feature]]
+icon = "solid fa-radio"
+title = "26. November"
+body = "<b>18 Uhr St. Martini </b><br />Hl. Messe mit dem Ensemble Vocale Erfurt"
+
+[[params.three.feature]]
+icon = "solid fa-bell"
+title = "26. November"
+body = "<b>18 Uhr St. Martini </b><br />Hl. Messe mit dem Ensemble Vocale Erfurt"
+
+[params.four]
+enable = true
+title = 'Liturgie- und Konzertprogramme'
+body = '''
+Aktuelle Jahresplanungen und Programme unserer Ensembles.
+
+{{<icon class="fa fa-file-pdf">}}&nbsp;[Jahresplanung Kinder- und Jugendchor 2024](documents/Mitgliedsantrag-Spendenerklaerung_V3.pdf)
+
+{{<icon class="fa fa-file-pdf">}}&nbsp;[Jahresplanung Domschola 2024](documents/Mitgliedsantrag-Spendenerklaerung_V3.pdf)
+'''
+#[[params.four.feature]]
+#icon = "solid fa-file-pdf"
+#title = "Kinder- und Jugendchor"
+#body = "<a href=documents/Mitgliedsantrag-Spendenerklaerung_V3.pdf>Jahresplanung 2024</a>"
+
+#[[params.four.feature]]
+#icon = "solid fa-file-pdf"
+#title = "Domschola"
+#body = "<a href=documents/Mitgliedsantrag-Spendenerklaerung_V3.pdf>Programm 2024</a>"
+
+#[[params.four.feature]]
+#icon = "solid fa-file-pdf"
+#title = "Internationale Orgelkonzerte"
+#body = "<a href=documents/Mitgliedsantrag-Spendenerklaerung_V3.pdf>Konzertprogramm 2024</a>"
+
+
+[params.cta]
+enable = true
+title = "Förderverein"
+body = "Der Förderverein unterstützt die Kirchenmusik am Dom und in der Innenstadtpfarrei St. Laurentius. Helfen Sie uns dabei!"
+
+[[params.cta.link]]
+href = "/kontakt/"
+text = "Kontakt"
+special = false
+
+[[params.cta.link]]
+href = "/verein/"
+text = "Mehr erfahren"
+special = false
+
+[params.contact]
+enable = false
+title = "Kontakt"
+body = "Schreiben Sie uns gern."
+#phone = "+49 (0) 030 000 000"
+address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+#email = "nospam@example.com"
+subject = "New Submission!"
+formspree_form_id = "example_invalid"
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = ""
+facebook = ""
+youtube = "@kinder-undjugendchoramerfu3319/"
+instagram = "kinderjugendchor_erfurterdom/"
+dribble = ""
+
+# language specific options
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
