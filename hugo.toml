@@ -25,7 +25,7 @@ theme = "spectral"
       unsafe = true
 
 [params]
-fancyTitle = '<img height="60" src="/images/logo_weiß.svg" alt="Logo"/><br />Musik am Erfurter Dom' # title for frontpage, may include image
+fancyTitle = '<img height="60" src="images/logo_weiß.svg" alt="Logo"/><br />Musik am Erfurter Dom' # title for frontpage, may include image
 copyright = "Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V."
 description = 'Chormusik<br />Orgelmusik<br />Förderverein'
 startbuttonText = "Aktuelle Termine"
@@ -42,39 +42,39 @@ keywords = "Kirchenmusik, Erfurt, Dom, St. Laurentius, Chor, Orgel, music, sacre
 
 
 [[params.menu.main]]
-url = '/'
+url = ''
 title = "Start"
 
 [[params.menu.main]]
-url = '/orgel/'
+url = 'orgel/'
 title = "Orgelmusik"
 
 [[params.menu.main]]
-url = '/kujchor/'
+url = 'kujchor/'
 title = "Kinder- und Jugendchor"
 
 [[params.menu.main]]
-url = '/domchor/'
+url = 'domchor/'
 title = "Domchor"
 
 [[params.menu.main]]
-url = '/pfarrei/'
+url = 'pfarrei/'
 title = "Innenstadtpfarrei"
 
 [[params.menu.main]]
-url = '/verein/'
+url = 'verein/'
 title = "Förderverein"
 
 [[params.menu.main]]
-url = '/kontakt/'
+url = 'kontakt/'
 title = "Kontakt"
 
 [[params.menu.main]]
-url = '/impressum/'
+url = 'impressum/'
 title = "Impressum und Credits"
 
 [[params.menu.main]]
-url = '/datenschutz/'
+url = 'datenschutz/'
 title = "Datenschutz"
 
 [taxonomies]
