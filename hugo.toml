@@ -27,6 +27,7 @@ theme = "spectral"
 [params]
 fancyTitle = '<img height="60" src="images/logo_weiß.svg" alt="Logo"/><br />Musik am Erfurter Dom' # title for frontpage, may include image
 copyright = "Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V."
+#description = '<a href="domchor">Chormusik</a><br />Orgelmusik<br />Förderverein'
 description = 'Chormusik<br />Orgelmusik<br />Förderverein'
 startbuttonText = "Aktuelle Termine"
 startbuttonLink = "#three"
@@ -86,9 +87,11 @@ title = "Datenschutz"
 enable = true
 title = 'Herzlich Willkommen auf den Seiten der Erfurter Dommusik'
 body = '''
-Hier finden Sie Informationen zum musikalischen Geschehen am Erfurter Dom und in
-der katholischen Innenstadtpfarrei St. Laurentius. Ob Chor oder Orgel, liturgisch
-oder außerliturgisch, Kinder oder Erwachsene – blabla.
+Ob im Chor oder mit der Orgel – auf vielerlei Weise erklingt im Erfurter Dom
+Musik zur Ehre Gottes. Menschen aller Altersgruppen bringen sich ein.
+Erfahren Sie mehr zu unseren <a href='#two' class="scrolly">Ensembles</a>, 
+zu <a href='#three' class="scrolly">aktuellen Veranstaltungen</a>
+oder zu unserem <a href='#cta' class="scrolly">Förderverein</a>.
 '''
 
 #[[params.one.icon]]

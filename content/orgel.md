@@ -17,7 +17,7 @@ Die "Internationalen Orgelkonzerte Dom zu Erfurt" finden an dieser Orgel statt, 
 
 Man kann vom Spieltisch der Hauptorgel auch die Chororgel anspielen, was ein räumlich sehr reizvoller Effekt ist.
 
-{{<icon class="fa fa-file-pdf">}}&nbsp;[Disposition der Haupt- und Chororgel des Doms](documents/Haupt-Chororgel-Dom-Erfurt.pdf)
+{{<icon class="fa fa-file-pdf">}}&nbsp;[Disposition der Haupt- und Chororgel des Doms](../documents/Haupt-Chororgel-Dom-Erfurt.pdf)
 
 ----
 
@@ -30,7 +30,7 @@ Jacob Adlung schreibt voll Bewunderung in seinem 1768 in Berlin erschienen Band 
 
 Die Stadt Erfurt hat mit dieser Volckland-Orgel in ihren Mauern wieder ein historisches barockes Instrument von großer Bedeutung in einer barocken Kirche mit idealer Akustik. Dieses Instrument wird in den "Internationalen Orgelwettbewerb zu Erfurt " integriert, der das nächste Mal im Juli 2005 stattfinden soll (letztes Mal Juli 2002, dreijähriger Rhythmus). Zudem soll sie in die Domkonzertreihen integriert werden, damit barocke Kirche und barocke Orgel, die auch optisch eine wunderschöne Einheit bilden, aus dem Schatten treten und einer breiten Öffentlichkeit vorgestellt werden können. Somit kann das (ja sehr zahlreiche) "Dompublikum" ein bißchen um- bzw. weitergeleitet werden und die Crucisorgel als barockes Gegenüber der gewaltigen, symphonischen Hauptorgel des Domes erleben, vielleicht sogar innerhalb eines Konzertes, welches nacheinander an beiden Orgeln stattfindet.
 
-{{<icon class="fa fa-file-pdf">}}&nbsp;[Disposition der Volckland-Orgel der Cruciskirche](documents/Volckland-Orgel-Cruciskirche-Erfurt.pdf)
+{{<icon class="fa fa-file-pdf">}}&nbsp;[Disposition der Volckland-Orgel der Cruciskirche](../documents/Volckland-Orgel-Cruciskirche-Erfurt.pdf)
 
 ----
 
