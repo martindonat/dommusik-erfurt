@@ -118,7 +118,7 @@ title = 'Orgelmusik'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section.link]]
-href = "/orgel/"
+href = "orgel/"
 text = "Zur Orgelmusik"
 special = false
 
@@ -130,7 +130,7 @@ body = '''Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet
 '''
 
 [[params.two.section.link]]
-href = "/kujchor/"
+href = "kujchor/"
 text = "Zum Kinder- und Jugendchor"
 special = false
 
@@ -140,7 +140,7 @@ title = 'Domchor'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section.link]]
-href = "/domchor/"
+href = "domchor/"
 text = "Zum Domchor"
 special = false
 
@@ -150,7 +150,7 @@ title = 'Pfarrei St. Laurentius'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section.link]]
-href = "/pfarrei/"
+href = "pfarrei/"
 text = "Musik in der Innenstadtpfarrei"
 special = false
 
@@ -224,12 +224,12 @@ title = "Förderverein"
 body = "Der Förderverein unterstützt die Kirchenmusik am Dom und in der Innenstadtpfarrei St. Laurentius. Helfen Sie uns dabei!"
 
 [[params.cta.link]]
-href = "/kontakt/"
+href = "kontakt/"
 text = "Kontakt"
 special = false
 
 [[params.cta.link]]
-href = "/verein/"
+href = "verein/"
 text = "Mehr erfahren"
 special = false
 
