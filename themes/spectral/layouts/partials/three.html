@@ -1,15 +1,13 @@
-{{ $md := .Site.Params.body_is_markdown | default false }}
-
-{{ with .Site.Params.three }}
+{{ with .Site.Data.three }}
 {{ if .enable }}
 <section id="three" class="wrapper style3 special">
 	<div class="inner">
 		<header class="major">
-      <h2>{{ .title | safeHTML }}</h2>
-      {{ partial "body_text.html" (dict "context" . "md" $md) }}
+      <h2>{{ .title }}</h2>
+      <p>{{ .subtitle | safeHTML }}</p>
 		</header>
 		<ul class="features">
-      {{ range .feature }}
+      {{ range .dates }}
       <li class="icon {{ .icon }}">
         <h3>{{ .title | safeHTML }}</h3>
         <p>{{ .body | safeHTML }}</p>
