@@ -1,0 +1,19 @@
+---
+enable: true
+title: 'Aktuelle Termine'
+subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerliturgische Konzerte
+unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.
+<br/><br/>Weitere Details zu den Konzerten im Dom finden Sie <a href="https://dom-erfurt.de/index.php?article_id=19">hier</a>.'
+dates:
+  - icon: 'solid fa-church'
+    title: '24. Februar 2024'
+    body: '<b>18 Uhr Cruciskirche</b><br />Hl. Messe mit dem Ensemble Vocale Erfurt'
+  - icon: 'solid fa-users'
+    title: '28. März 2024'
+    body: '<b>23 Uhr Dom St. Marien</b><br />Ölbergstunden, Abschluss gestaltet durch das Ensemble Vocale Erfurt'
+  - icon: 'solid fa-music'
+    title: '25. Mai 2024'
+    body: '<b>19.30 Uhr Dom St. Marien</b><br />Eröffnungskonzert der Internationalen Orgelkonzerte mit Silvius von Kessel und Benedikt Kristjánsson'
+  - icon: 'solid fa-music'
+    title: '08. Juni 2024'
+    body: '<b>19.30 Uhr Dom St. Marien</b><br />Internationales Orgelkonzert'
