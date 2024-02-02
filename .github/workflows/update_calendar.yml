@@ -2,7 +2,7 @@ name: run Calendar_UpdateScript_from_csv.py
 
 on:
   schedule:
-    - cron: '44 * * * *' # At 02:00 everyday
+    - cron: '14 * * * *' # At 02:00 everyday
 
 jobs:
   build:
