@@ -2,7 +2,7 @@ name: run Calendar_UpdateScript_from_csv.py
 
 on:
   schedule:
-    - cron: '12 8 * * *' # At 02:00 everyday
+    - cron: '35 * * * *' # At 02:00 everyday
 
 jobs:
   build:
@@ -18,7 +18,9 @@ jobs:
           python-version: '3.10' # install the python version needed
 
       - name: execute py script # run Calendar_UpdateScript_from_csv.py
-        run: python3 Calendar_UpdateScript_from_csv.py
+        run: |
+          Sys.setlocale("LC_ALL", "de_DE.UTF-8")
+          python Calendar_UpdateScript_from_csv.py
 
       - name: commit files
         run: |
