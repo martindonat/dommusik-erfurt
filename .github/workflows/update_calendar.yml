@@ -2,7 +2,7 @@ name: run Calendar_UpdateScript_from_csv.py
 
 on:
   schedule:
-    - cron: '16 * * * *' # At 02:00 everyday
+    - cron: '44 * * * *' # At 02:00 everyday
 
 jobs:
   build:
@@ -17,8 +17,15 @@ jobs:
         with:
           python-version: '3.10' # install the python version needed
 
-      - name: show available locales
-        run: locale -a
+      - name: SetLocale
+        run: |
+          sudo apt-get update && sudo apt-get install tzdata locales -y && sudo locale-gen de_DE.UTF-8
+          sudo localectl set-locale LANG="de_DE.UTF-8"
+          export LANG="de_DE.UTF-8"
+          sudo update-locale
+          locale -a
+          locale
+          localectl status
 
       - name: execute py script # run Calendar_UpdateScript_from_csv.py
         run: |
