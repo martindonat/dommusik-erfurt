@@ -103,7 +103,7 @@ hugo_calendar_data_file = 'data/three.yml'
 calendar_csv = 'Kalender_Termine.csv'
 number_of_displayed_events = 4
 
-locale.setlocale(locale.LC_ALL, "de_DE.utf8")
+locale.setlocale(locale.LC_ALL, "de_DE.UTF8")
 
 ##########################################################################
 # Begin of script

@@ -1,4 +1,4 @@
-name: run main.py
+name: run Calendar_UpdateScript_from_csv.py
 
 on:
   schedule:
@@ -17,8 +17,19 @@ jobs:
         with:
           python-version: '3.10' # install the python version needed
 
-      - name: execute py script # run main.py
-        run: python Calendar_UpdateScript_from_csv.py
+      - name: SetLocale
+        run: |
+          sudo apt-get update && sudo apt-get install tzdata locales -y && sudo locale-gen de_DE.UTF-8
+          sudo localectl set-locale LANG="de_DE.UTF-8"
+          export LANG="de_DE.UTF-8"
+          sudo update-locale
+          locale -a
+          locale
+          localectl status
+
+      - name: execute py script # run Calendar_UpdateScript_from_csv.py
+        run: |
+          python Calendar_UpdateScript_from_csv.py
 
       - name: commit files
         run: |
