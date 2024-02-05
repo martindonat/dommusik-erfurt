@@ -3,7 +3,7 @@ title = "Musik am Erfurter Dom"
 languageCode = "de-de"
 defaultContentLanguage = "de"
 paginate = "8"
-theme = "spectral"
+theme = ["spectral", "hugo-shortcode-gallery"]
 
 [privacy]
   [privacy.disqus]
@@ -24,6 +24,9 @@ theme = "spectral"
     [markup.goldmark.renderer]
       unsafe = true
 
+[imaging.exif]
+    includeFields = ".*"
+
 [params]
 fancyTitle = '<img height="60" src="images/logo_weiß.svg" alt="Logo"/><br />Musik am Erfurter Dom' # title for frontpage, may include image
 copyright = "Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V."
@@ -34,7 +37,7 @@ startbuttonLink = "#three"
 body_is_markdown = true
 favicon = "images/favicon.png"
 tags = ["Dom Erfurt", "Kirchenmusik", "Chor"]
-#custom_css = "custom.css"
+#custom_css = "css/custom.css"
 #custom_sass = "bar.scss"
 #images = ["images/erfurt-nacht.jpg"]
 
@@ -115,7 +118,7 @@ enable = true
 [[params.two.section]]
 img = "images/orgel_dom2.jpeg"
 title = 'Orgelmusik'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+body = 'Die Königin der Instrumente erklingt zum Gottesdienst und zu Konzerten – im Dom oder an der historischen Barockorgel in der Cruciskirche.'
 
 [[params.two.section.link]]
 href = "orgel/"
@@ -126,7 +129,7 @@ special = false
 img = "images/kujchor.jpg"
 img_alt = "blurry background: white/grey"
 title = 'Kinder- und Jugendchor <br /> am Erfurter Dom'
-body = '''Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+body = '''Seit 2003 bereichert der Kinder- und Jugendchor die Liturgie am Dom mit seinem anspruchsvollen Repertoire für Oberstimmen.
 '''
 
 [[params.two.section.link]]
@@ -137,7 +140,7 @@ special = false
 [[params.two.section]]
 img = "images/DOM_Konzert_MG_4063F.jpg"
 title = 'Domchor'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+body = 'Am Dom singen ebenfalls der traditionsreiche vierstimmige Erwachsenenchor und die Domschola.'
 
 [[params.two.section.link]]
 href = "domchor/"
@@ -147,7 +150,7 @@ special = false
 [[params.two.section]]
 img = "images/severi.jpeg"
 title = 'Pfarrei St. Laurentius'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+body = 'Dom und Innenstadt sind eng miteinander verbunden. Der Förderverein unterstützt genauso das vielfältige musikalische Leben der Innenstadtpfarrei.'
 
 [[params.two.section.link]]
 href = "pfarrei/"
@@ -168,9 +171,9 @@ Aktuelle Jahresplanungen und Programme unserer Ensembles.
 
 {{<icon class="fa fa-globe">}}&nbsp;[Konzerte im Erfurter Dom St. Marien 2024](https://dom-erfurt.de/index.php?article_id=19)
 
-{{<icon class="fa fa-file-pdf">}}&nbsp;[Jahresplanung Kinder- und Jugendchor 2024](documents/Mitgliedsantrag-Spendenerklaerung_V3.pdf)
+{{<icon class="fa fa-file-pdf">}}&nbsp;[Jahresplanung Kinder- und Jugendchor 2024](documents/231107_KuJChor_Termine_2024.pdf)
 
-{{<icon class="fa fa-file-pdf">}}&nbsp;[Jahresplanung Domschola 2024](documents/Mitgliedsantrag-Spendenerklaerung_V3.pdf)
+{{<icon class="fa fa-file-pdf">}}&nbsp;[Jahresplanung Domschola 2024](documents/Schola_Termine_2024.pdf)
 '''
 #[[params.four.feature]]
 #icon = "solid fa-file-pdf"

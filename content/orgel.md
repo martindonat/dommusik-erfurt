@@ -13,11 +13,11 @@ Im Jahre 1963 wurde eine Chororgel erbaut – ebenfalls von Schuke aus Potsdam �
 
 Die Hauptorgel hat 63 Register auf 3 Manualen und Pedal, eine mechanische Tontraktur und elektrische Registertraktur. Es handelt sich bei dieser von der Fachwelt und dem zahlreichen Konzertpublikum sehr gelobten Orgel um ein Instrument von gewaltiger, symphonischer Klangpracht. Gleichwohl ist ein barocker Kern gleichsam der Ausgangspunkt.
 
-Die "Internationalen Orgelkonzerte Dom zu Erfurt" finden an dieser Orgel statt, an einigen Samstagen von Mai bis Juli (oder August). Es sind sehr gut besuchte Dom-Konzerte, in denen einerseits die bedeutendsten Organisten der Gegenwart zu hören sind, andererseits aber auch weinger bekannte und gleichwohl sehr gute Organisten aus dem In- und Ausland.
+Die "Internationalen Orgelkonzerte Dom zu Erfurt" finden an dieser Orgel statt, an einigen Samstagen von Mai bis Juli (oder August). Es sind sehr gut besuchte Dom-Konzerte, in denen einerseits die bedeutendsten Organisten der Gegenwart zu hören sind, andererseits aber auch weniger bekannte und gleichwohl sehr gute Organisten aus dem In- und Ausland.
 
 Man kann vom Spieltisch der Hauptorgel auch die Chororgel anspielen, was ein räumlich sehr reizvoller Effekt ist.
 
-{{<icon class="fa fa-file-pdf">}}&nbsp;[Disposition der Haupt- und Chororgel des Doms](../documents/Haupt-Chororgel-Dom-Erfurt.pdf)
+{{<icon class="fa fa-file-pdf">}}&nbsp;[Disposition der Haupt- und Chororgel des Doms](../documents/Disposition-Domorgeln-Erfurt-2023.pdf)
 
 ----
 
@@ -36,11 +36,7 @@ Die Stadt Erfurt hat mit dieser Volckland-Orgel in ihren Mauern wieder ein histo
 
 ## Domorganist: Prof. Silvius von Kessel
 
-![SilviusVonKessel](../images/von_kessel_1_5_1.jpg)
-
-Silvius Carlos Benedict von Kessel, in Oldenburg (i. Oldbg.) geboren, studierte zunächst an der Folkwang Hochschule in Essen Kirchenmusik (A-Examen mit Auszeichnung) – im Fach Orgel bei Prof. Gisbert Schneider – und dann mit einem Stipendium des „Deutschen Akademischen Austauschdienstes“ (DAAD) in Paris im Konzertfach Orgel (Literatur und Improvisation) bei Prof. Olivier Latry (Abschluß mit dem „Diplôme de Concertiste“).
-
-Seit 1994 ist er Domorganist und -kantor am Erfurter Dom St. Marien und seit 1995 zugleich Orgelsachverständiger und Beauftragter für Kirchenmusik des Bistums Erfurt.
+{{< imagewithtext img="../images/von_kessel_1_5_1.jpg" text="Silvius Carlos Benedict von Kessel, in Oldenburg (i. Oldbg.) geboren, studierte zunächst an der Folkwang Hochschule in Essen Kirchenmusik (A-Examen mit Auszeichnung) – im Fach Orgel bei Prof. Gisbert Schneider – und dann mit einem Stipendium des „Deutschen Akademischen Austauschdienstes“ (DAAD) in Paris im Konzertfach Orgel (Literatur und Improvisation) bei Prof. Olivier Latry (Abschluß mit dem „Diplôme de Concertiste“).<br/><br/>Seit 1994 ist er Domorganist und -kantor am Erfurter Dom St. Marien und seit 1995 zugleich Orgelsachverständiger und Beauftragter für Kirchenmusik des Bistums Erfurt." >}}
 
 Silvius von Kessel war Initiator und Künstlerischer Leiter des „Internationalen Orgelwettbewerbes zu Erfurt “, der im Rhythmus von drei Jahren 1999, 2002 und 2005 stattfand. Aus diesem Wettbewerb ging in Zusammenarbeit mit der Hochschule für Musik „Franz Liszt“ Weimar der neugegründete „BACH/LISZT Orgelwettbewerb Erfurt-Weimar“ hervor, dessen künstlerische Leitung Silvius von Kessel innehatte.
 

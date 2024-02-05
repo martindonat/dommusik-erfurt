@@ -26,3 +26,8 @@ Inzwischen ist der "Domchor Erfurt" einer der bedeutenden Chöre in Thüringen. 
 ----
 
 ## Domschola
+
+Seit über 20 Jahren singt die Domschola unter der Leitung von Domorganist KMD Prof. Silvius v. Kessel 
+in regelmäßigen Abständen im lateinischen Hochamt das Gregorianische Repertoire. Gelegentlich erklingt
+der Choral auch konzertant, beispielsweise zu den Erfurter Kirchenmusiktagen. Die Schola besteht derzeit
+aus 13 erwachsenen und jugendlichen Mitgliedern. 

@@ -8,6 +8,13 @@
     <language>de</language>
     <atom:link href="https://martindonat.github.io/dommusik-erfurt/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Kalender</title>
+      <link>https://martindonat.github.io/dommusik-erfurt/kalender/</link>
+      <pubDate>Sun, 04 Feb 2024 16:48:08 +0100</pubDate>
+      <guid>https://martindonat.github.io/dommusik-erfurt/kalender/</guid>
+      <description>Überblick über die kommenden Veranstaltungen 2024 Februar Datum Uhrzeit Ort Beschreibung 11. Februar 11.00 Dom St. Marien Lateinisches Hochamt mit der Domschola 24. Februar 18.00 Cruciskirche Hl. Messe mit dem Ensemble Vocale Erfurt März Datum Uhrzeit Ort Beschreibung 03. März 11.00 Dom St. Marien Hochamt mit dem A-Chor 10. März 11.00 Dom St. Marien Lateinisches Hochamt mit der Domschola 24. März 11.00 Dom St. Marien Hochamt zu Palmsonntag mit A- und B-Chor 28.</description>
+    </item>
+    <item>
       <title>Datenschutzerklärung</title>
       <link>https://martindonat.github.io/dommusik-erfurt/datenschutz/</link>
       <pubDate>Wed, 13 Dec 2023 08:47:54 +0100</pubDate>
@@ -26,7 +33,7 @@
       <link>https://martindonat.github.io/dommusik-erfurt/kontakt/</link>
       <pubDate>Thu, 09 Nov 2023 12:25:16 +0100</pubDate>
       <guid>https://martindonat.github.io/dommusik-erfurt/kontakt/</guid>
-      <description></description>
+      <description>Domorganist und Domkantor KMD Prof. Silvius von Kessel (0361) 5 61 75 63&#xA;domorganist@bistum-erfurt.de&#xA;Leitung Domchor Ekkehard Fellner 0178/ 5 28 00 50&#xA;ekkehard_fellner@web.de&#xA;Leitung Kinder- und Jugendchor Elisabeth Lehmann-Dronke 0176/ 213 900 38&#xA;elisabeth@lehmann-dronke.de&#xA;Förderverein Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V. Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V. c/o Susanne Borris Gunta-Stölzl-Strasse 26 99085 Erfurt&#xA;info@dommusik-erfurt.de</description>
     </item>
     <item>
       <title>Kirchenmusik in der Pfarrei St. Laurentius</title>

@@ -9,13 +9,12 @@ image = '../images/kujchor.jpg'
 
  Der Kinder- und Jugendchor hat sich seit seiner Gründung im Jahr 2003 zu einem großen, gleichstimmig singenden Chor entwickelt. Zu den wöchentlichen Proben kommen insgesamt über 130 Mädchen und Jungen.
 
-![C-Chor](../images/c-chor444.png)
-
-
 Im Chor erfahren die Kinder und Jugendlichen Gemeinschaft in einer frohen, jungen und lebendigen Kirche.
 Mädchen und Jungen zwischen 3 und 20 Jahren, die Spaß am gemeinsamen Singen haben und qualifizierte Musik erleben wollen, sind herzlich eingeladen dazu zu kommen. Die Teilnahme an den Proben ist kostenfrei. Voraussetzung sind Freude an Musik und die Bereitschaft zur regelmäßigen Teilnahme an den Proben.
 
 Der Kinder- und Jugendchor gliedert sich in vier Gruppen, in denen altersspezifisch geprobt wird. 
+
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ----
 
@@ -68,5 +67,16 @@ Das gemeinsame Singen und Spielen ist eingebettet in den Jahreskreis mit seiner 
 
 ### Leitung der Chöre: Elisabeth Lehmann-Dronke
 
-![ELD](../images/eld.jpg)
+{{< imagewithtext img="../images/eld2.jpg" text="Der Kinder- und Jugendchor wird seit seiner Gründung im Jahr 2003 von Elisabeth Lehmann-Dronke geleitet." >}}
+
+1974 in Erfurt geboren waren ihr Abitur und Studium in der DDR zunächst versagt, und so begann sie eine Ausbildung zur Erzieherin. Nach der politischen Wende konnte sie am Musikgymnasium Belvedere in Weimar die Schule fortsetzen, studierte Orchestermusik (Querflöte) an der dortigen Hochschule für Musik Franz Liszt und schloss das Musikstudium mit dem künstlerischen und pädagogischen Diplom ab. Initialzündung für ihre Passion als Chorleiterin war noch in der Studienzeit die Gründung eines Projekt-Kinderchores. Es folgte Mitarbeit beim Erfurter Domchor, ein Jugendchor am Erfurter Dom und Kinder- und Jugendchorarbeit in den Pfarreien Melchendorf, Bad Langensalza und Gotha. Nach einer Auszeit für die eigenen Kinder begann sie 2003, die Kinder- und Jugendchorarbeit am Erfurter Dom in ihrer heutigen Form aufzubauen.
+
+Elisabeth Lehmann-Dronke hat seit 2022 an der Universität Erfurt einen Lehrauftrag für Kinderchorleitung Seit 2023 wurde sie zur Präsidentin des Deutschen Jugendchorverbandes Pueri Cantores gewählt, dessen Vorstand sie seit 2019 angehört.
+
+{{<icon class="fa fa-phone">}}&nbsp;[0176/ 213 900 38](tel:+4917621390038)
+
+{{<icon class="fa fa-envelope">}}&nbsp;[elisabeth@lehmann-dronke.de](mailto:elisabeth@lehmann-dronke.de)
+
+
+
 

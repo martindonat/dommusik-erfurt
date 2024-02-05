@@ -6,7 +6,7 @@ draft = false
 
 ## Impressum
 
- Verein der Freunde und Förderer
+Verein der Freunde und Förderer
 der Kirchenmusik am Erfurter Dom e.V.<br/>
 c/o Susanne Borris<br/>
 Gunta-Stölzl-Strasse 26<br/>
