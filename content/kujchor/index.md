@@ -14,7 +14,7 @@ Mädchen und Jungen zwischen 3 und 20 Jahren, die Spaß am gemeinsamen Singen ha
 
 Der Kinder- und Jugendchor gliedert sich in vier Gruppen, in denen altersspezifisch geprobt wird. 
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="4" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="4" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=false >}}
 
 ----
 
