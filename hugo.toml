@@ -24,6 +24,8 @@ theme = ["spectral", "hugo-shortcode-gallery"]
     [markup.goldmark.renderer]
       unsafe = true
 
+
+timeout = 60000 # This is required for larger galleries to be build (60 sec)
 [imaging.exif]
     includeFields = ".*"
 
