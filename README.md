@@ -19,6 +19,9 @@ eine Stichwortsuche im Beschreibungstext.
 
 Die Datei, die die dargestellten Termine enthält, ist `data/three.yml`.
 
+Zusätzlich wird eine Übersicht über alle hinterlegten Termine erstellt. Die entsprechende Datei ist
+`content/kalender.md`.
+
 ## Credits
 
 Die Webseite benutzt das [Spectral-Theme](https://github.com/sbruder/spectral/tree/master) - danke an Simon Bruder.
