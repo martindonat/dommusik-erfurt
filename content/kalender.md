@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 11. Februar | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 | 24. Februar | 18.00 | Cruciskirche | Hl. Messe mit dem Ensemble Vocale Erfurt |
 
 
