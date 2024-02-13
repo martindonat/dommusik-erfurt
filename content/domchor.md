@@ -18,16 +18,29 @@ Inzwischen ist der "Domchor Erfurt" einer der bedeutenden Chöre in Thüringen. 
 
 ### Leitung: Ekkehard Fellner
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@johndoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[ekkehard_fellner@web.de](mailto:ekkehard_fellner@web.de)
 
-{{<icon class="fa fa-envelope">}}&nbsp;0178 / 528005000
+{{<icon class="fa fa-phone">}}&nbsp;[0178/ 5 28 00 50](tel:+491785280050)
 
 
 ----
 
 ## Domschola
 
+| | |
+|-----|-------------|
+|Probe| Montags, 18.45 bis 19.45 Uhr, bzw. freitags 18.45 bis 19.45 Uhr (nach Absprache)|
+|Ort|Dom oder Domsakristei (nach Absprache)|
+
+
 Seit über 20 Jahren singt die Domschola unter der Leitung von Domorganist KMD Prof. Silvius v. Kessel 
 in regelmäßigen Abständen im lateinischen Hochamt das Gregorianische Repertoire. Gelegentlich erklingt
 der Choral auch konzertant, beispielsweise zu den Erfurter Kirchenmusiktagen. Die Schola besteht derzeit
 aus 13 erwachsenen und jugendlichen Mitgliedern. 
+
+###  Leitung: KMD Prof. Silvius von Kessel
+
+{{<icon class="fa fa-phone">}}&nbsp;[(0361) 5 61 75 63](tel:+493615617563)
+
+{{<icon class="fa fa-envelope">}}&nbsp;[domorganist@bistum-erfurt.de](mailto:domorganist@bistum-erfurt.de)
+

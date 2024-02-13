@@ -118,7 +118,7 @@ oder zu unserem <a href='#cta' class="scrolly">Förderverein</a>.
 enable = true
 
 [[params.two.section]]
-img = "images/orgel_dom2.jpeg"
+img = "images/Erfurt_cathedral_interior-0009_Wikimedia_2.jpg"
 title = 'Orgelmusik'
 body = 'Die Königin der Instrumente erklingt zum Gottesdienst und zu Konzerten – im Dom oder an der historischen Barockorgel in der Cruciskirche.'
 
@@ -150,7 +150,7 @@ text = "Zum Domchor"
 special = false
 
 [[params.two.section]]
-img = "images/severi.jpeg"
+img = "images/Erfurt,_St._Severi,_2015-001_Wikimedia.jpg"
 title = 'Pfarrei St. Laurentius'
 body = 'Dom und Innenstadt sind eng miteinander verbunden. Der Förderverein unterstützt genauso das vielfältige musikalische Leben der Innenstadtpfarrei.'
 

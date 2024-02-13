@@ -2,6 +2,7 @@
 
 {{ with .Site.Params.one }}
 {{ if .enable }}
+
 	<section id="one" class="wrapper style1 special">
 		<div class="inner">
 			<header class="major">
@@ -18,3 +19,6 @@
 	</section>
 {{ end }}
 {{ end }}
+
+     {{ partial "scripts.html" . }}
+
