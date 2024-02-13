@@ -199,7 +199,7 @@ title = "Förderverein"
 body = "Der Förderverein unterstützt die Kirchenmusik am Dom und in der Innenstadtpfarrei St. Laurentius. Helfen Sie uns dabei!"
 
 [[params.cta.link]]
-href = "kontakt/"
+href = "impressum/"
 text = "Kontakt"
 special = false
 
