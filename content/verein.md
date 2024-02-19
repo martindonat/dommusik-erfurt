@@ -6,21 +6,31 @@ draft = false
 
 ## Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V.
 
-Der 'Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V.' unterstützt die Arbeit der haupt- und ehrenamtlichen Musiker
-am Erfurter Dom und in der Pfarrei St. Laurentius. Wir können dies nur durch die Hilfe unserer Mitglieder und Spender.
+Der 'Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V.' unterstützt seit seiner Gründung 2017 
+die Arbeit der haupt- und ehrenamtlichen Musiker und Musikerinnen
+am Erfurter Dom und in der Pfarrei St. Laurentius – ideell und finanziell. 
+Dies gelingt uns nur durch die Hilfe unserer Mitglieder und Spender.
 In den letzten Jahren konnten wir u.a. folgende Projekte finanziell unterstützen:
 
-- Sommerfahrten und Probenwochenenden des Kinder- und Jugendchores am Dom Barcelona, Rom oder Norwegen
+- Sommerfahrten, Konzertreisen und Probenwochenenden des Kinder- und Jugendchores im In- und Ausland
+- Ein vielseitig einsetzbares Chorpodest
 - Einen Pedalaufsatz für die Barockorgel der Cruciskirche
 - Technik für die Kinderschola der Pfarrei
 - Workshops und Instrumente für das Ökumenische Holzgebläse
-- ... und einiges mehr
+- ... und vieles mehr
 
-Vielleicht haben Sie ja auch Interesse an unserer Arbeit gewonnen.
-Unser Verein ist wegen der Förderung von Kunst und Kultur durch eine Bescheinigung des Finanzamtes Erfurt gemeinnützig anerkannt.
+Vielleicht haben auch Sie Interesse an unserer Arbeit gewonnen.
+Gern informieren wir Sie persönlich über Ihre Unterstützungsmöglichkeiten für die Kirchenmusik. 
+Kontaktieren Sie uns dazu gern per [E-Mail](mailto:info@dommusik-erfurt.de).
 
-Spenden und Mitgliedsbeiträge können daher von der Steuer abgesetzt werden – bis 300€ ohne gesonderte Spendenbescheinigung. 
-Sollten Sie eine Bescheinigung brauchen, kontaktieren Sie uns gern.
+Unser Verein ist wegen der Förderung von Kunst und Kultur durch eine Bescheinigung des 
+Finanzamtes Erfurt als gemeinnützig anerkannt.
+
+Spenden und Mitgliedsbeiträge können daher von der Steuer abgesetzt werden – bis 300€ 
+mit dem im Anhang befindlichen vereinfachten Zuwendungsnachweis und einem Kontoauszug. 
+Für größere Spenden stellen wir Ihnen eine Spendenbescheinigung aus.
+Kontaktieren Sie uns hierfür gern.
+
 
 #### Dokumente
 

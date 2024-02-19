@@ -62,7 +62,14 @@ Gemeinsam mit ihren Eltern und mit Gleichaltrigen erfahren die Kinder einen Zuga
 Über das gemeinsame Singen, Hören, Musizieren und Bewegen wird auf spielerische Weise die musikalische Veranlagung geweckt und entwickelt. Die Kinder lernen dabei wesentliche Elemente der Musik kennen wie Tonhöhe, Tondauer, Rhythmus und Dynamik. Orff´sche Instrumente begleiten Verse und Lieder mit einfachen Rhythmen.
 Das gemeinsame Singen und Spielen ist eingebettet in den Jahreskreis mit seiner Prägung durch die christlichen Feste. 
 
+
+
+{{< gallery match="gallery_children_choir/*" sortOrder="asc" rowHeight="150" margins="4" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=false >}}
+
+
+
 ----
+
 
 ### Leitung der Chöre: Elisabeth Lehmann-Dronke
 
@@ -70,8 +77,7 @@ Das gemeinsame Singen und Spielen ist eingebettet in den Jahreskreis mit seiner 
 
 1974 in Erfurt geboren waren ihr Abitur und Studium in der DDR zunächst versagt, und so begann sie eine Ausbildung zur Erzieherin. Nach der politischen Wende konnte sie am Musikgymnasium Belvedere in Weimar die Schule fortsetzen, studierte Orchestermusik (Querflöte) an der dortigen Hochschule für Musik Franz Liszt und schloss das Musikstudium mit dem künstlerischen und pädagogischen Diplom ab. Initialzündung für ihre Passion als Chorleiterin war noch in der Studienzeit die Gründung eines Projekt-Kinderchores. Es folgte Mitarbeit beim Erfurter Domchor, ein Jugendchor am Erfurter Dom und Kinder- und Jugendchorarbeit in den Pfarreien Melchendorf, Bad Langensalza und Gotha. 
 
-Nach einer Auszeit für die eigenen Kinder begann sie 2003, die Kinder- und Jugendchorarbeit am Erfurter Dom in ihrer heutigen Form aufzubauen.
-Sie war 2015 Mitbegründerin und ist seit 2019 Vorsitzende des Regionalverbandes für die ostdeutschen Diözesen.
+Nach einer Auszeit für die eigenen Kinder begann sie 2003, die Kinder- und Jugendchorarbeit am Erfurter Dom in ihrer heutigen Form aufzubauen. Daneben ist sie engagiert im Chorverband Pueri Cantores (internationale Vereinigung katholischer Kinder-, Knaben-, Mädchen- und Jugendchöre). Sie war 2015 Mitbegründerin und ist seit 2019 Vorsitzende des Regionalverbandes für die ostdeutschen Diözesen.
 
 {{<icon class="fa fa-phone">}}&nbsp;[0176/ 213 900 38](tel:+4917621390038)
 
