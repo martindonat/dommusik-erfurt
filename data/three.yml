@@ -6,9 +6,6 @@ unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen 
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.'
 dates:
   - icon: 'solid fa-church'
-    title: '24. Februar 2024'
-    body: '<b>18.00 Uhr Cruciskirche</b><br />Hl. Messe mit dem Ensemble Vocale Erfurt'
-  - icon: 'solid fa-church'
     title: '25. Februar 2024'
     body: '<b>11.00 Uhr Dom St. Marien</b><br />Hochamt zum 2. Fastensonntag mit dem Domchor'
   - icon: 'solid fa-church'
@@ -17,3 +14,6 @@ dates:
   - icon: 'solid fa-church'
     title: '10. März 2024'
     body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt mit der Domschola'
+  - icon: 'solid fa-church'
+    title: '24. März 2024'
+    body: '<b>11.00 Uhr Dom St. Marien</b><br />Hochamt zu Palmsonntag mit dem Kinder- und Jugendchor (A+B)'

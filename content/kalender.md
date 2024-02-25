@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 24. Februar | 18.00 | Cruciskirche | Hl. Messe mit dem Ensemble Vocale Erfurt |
 | 25. Februar | 11.00 | Dom St. Marien | Hochamt zum 2. Fastensonntag mit dem Domchor |
 
 
