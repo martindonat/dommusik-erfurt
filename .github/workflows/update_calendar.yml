@@ -1,4 +1,4 @@
-name: run Calendar_UpdateScript_from_csv.py
+name: Automatic Nightly Calendar Update 
 
 on:
   schedule:
