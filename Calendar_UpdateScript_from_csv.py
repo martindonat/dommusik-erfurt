@@ -87,7 +87,7 @@ unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen 
 
 yml_subtitle_events = """subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerliturgische Konzerte
 unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.'
-subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.'
+subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
 """
 
