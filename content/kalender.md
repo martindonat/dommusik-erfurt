@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### Februar
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 25. Februar | 11.00 | Dom St. Marien | Hochamt zum 2. Fastensonntag mit dem Domchor |
-
-
 ### März
 
 | Datum | Uhrzeit | Ort | Beschreibung |
