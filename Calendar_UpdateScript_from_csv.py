@@ -37,7 +37,7 @@ def process_csv_file_to_list(file_path):
 		for row in reader:
 						
 			time_str = row['Uhrzeit']
-			if len(time_str) == 2: time_str += ".00"
+			if len(time_str) < 4: time_str += ".00"
 			
 			# Umwandlung von Datum und Uhrzeit in datetime-Objekte
 			date_obj = dt.datetime.strptime(row['Datum'] + "/" + time_str, '%d.%m.%Y/%H.%M')

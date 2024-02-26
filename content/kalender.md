@@ -15,6 +15,7 @@ image = '../images/Kalender_GR3.jpg'
 |-------|---------|-----|--------------|
 | 03. März | 11.00 | Dom St. Marien | Hochamt mit dem Kinder- und Jugendchor (A) |
 | 10. März | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
+| 22. März | 18.00 | St. Wigbert | Lange Nacht der Hausmusik mit dem Ökum. Holzgebläse |
 | 24. März | 11.00 | Dom St. Marien | Hochamt zu Palmsonntag mit dem Kinder- und Jugendchor (A+B) |
 | 28. März | 23.00 | Dom St. Marien | Ölbergstunden, Abschluss gestaltet durch das Ensemble Vocale Erfurt |
 | 29. März | 15.00 | Dom St. Marien | Karfreitagsliturgie mit der Domschola |
@@ -24,6 +25,7 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
+| 13. April | 18.00 | Ev. Kirche / Gräfenroda | Vesper mit dem Ökum. Holzgebläse |
 | 13. April | 22.00 | Dom St. Marien | Nachtkonzert: Vox Luminis & Caroline Shaw |
 | 14. April | 11.00 | Dom St. Marien | Hochamt mit dem Kinder- und Jugendchor (A) |
 | 28. April | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
@@ -36,6 +38,7 @@ image = '../images/Kalender_GR3.jpg'
 | 18. Mai | 11.00 | Dom St. Marien | Hl. Messe und Priesterweihe mit dem Kinder- und Jugendchor (A) |
 | 25. Mai | 19.30 | Dom St. Marien | Eröffnungskonzert der Internationalen Orgelkonzerte mit Silvius von Kessel und Benedikt Kristjánsson |
 | 26. Mai | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
+| 29. Mai | 00.00 | Kaufmannskirche | Begegnungsabend zum Katholikentag mit dem Ökum. Holzgebläse |
 | 31. Mai | 18.30 | Predigerkirche | Friedensgebet mit dem Kinder- und Jugendchor und dem Jugendkathedralchor Berlin |
 
 
@@ -69,6 +72,7 @@ image = '../images/Kalender_GR3.jpg'
 | 10. August | 19.30 | Cruciskirche | Orgelkonzert an historischer Barockorgel |
 | 17. August | 19.30 | Cruciskirche | Orgelkonzert an historischer Barockorgel |
 | 24. August | 19.30 | Cruciskirche | Orgelkonzert an historischer Barockorgel |
+| 25. August | 00.00 | ?? | Hl. Messe mit dem Ökum. Holzgebläse |
 
 
 ### September
@@ -103,9 +107,12 @@ image = '../images/Kalender_GR3.jpg'
 |-------|---------|-----|--------------|
 | 01. Dezember | 11.00 | Dom St. Marien | Hochamt zum 1. Advent mit dem Kinder- und Jugendchor (A+B) |
 | 07. Dezember | 17.00 | Dom St. Marien | Adventliche Orgelmusik I |
+| 08. Dezember | 10.30 | St. Wigbert | Hl. Messe mit dem Ökum. Holzgebläse |
 | 14. Dezember | 17.00 | Dom St. Marien | Adventliche Orgelmusik II |
 | 15. Dezember | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
+| 15. Dezember | 15.00 | DRK Senioren- und Pflegeheim | Adventsmusik mit dem Ökum. Holzgebläse (Adresse: Arnstädter Straße 48, Erfurt) |
 | 22. Dezember | 11.00 | Dom St. Marien | Hochamt zum 4. Advent mit dem Kinder- und Jugendchor (A) |
+| 24. Dezember | 13.00 | Brunnenkirche | Weihnachtsandacht der Caritas Erfurt mit dem Ökum. Holzgebläse |
 
 ## 2025
 
