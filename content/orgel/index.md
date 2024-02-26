@@ -34,6 +34,9 @@ Die Stadt Erfurt hat mit dieser Volckland-Orgel in ihren Mauern wieder ein histo
 
 {{<icon class="fa fa-file-pdf">}}&nbsp;[Disposition der Volckland-Orgel der Cruciskirche](../documents/Volckland-Orgel-Cruciskirche-Erfurt.pdf)
 
+{{< gallery match="gallery_crucis/*" sortOrder="asc" rowHeight="150" margins="4" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=false >}}
+
+
 ----
 
 ## Domorganist: Prof. Silvius von Kessel
