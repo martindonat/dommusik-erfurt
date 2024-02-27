@@ -12,9 +12,6 @@ hier insbesondere die Gruppen hervorheben, die wir als Förderverein bereits reg
 unterstützen konnten. Für eine vollständige Auflistung der Chöre, Gruppen und Ensembles
 verweisen wir auf die [Homepage der Pfarrei](https://www.st-laurentius-erfurt.de/ansprechpartner/kirchenmusik/).
 
-### Kinderschola St. Laurentius
-
-*Work in Progress*
 
 ### Ökumenisches Holzgebläse
 
@@ -44,3 +41,8 @@ Ebenso sind wir sehr dankbar für Förderer und Unterstützer, die uns die Ansch
 Ulrike Reimann*
 
 Kontakt: {{<icon class="fa fa-envelope">}} ulrikereimann.tms@gmx.de
+
+### Kinderschola St. Laurentius
+
+*Work in Progress*
+
