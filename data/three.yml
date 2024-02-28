@@ -5,9 +5,6 @@ subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerlitu
 unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.'
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
-  - icon: 'solid fa-music'
-    title: '27. Februar 2024'
-    body: '<b>22.00 Uhr St. Pankratius</b><br />Testkonzert'
   - icon: 'solid fa-church'
     title: '03. März 2024'
     body: '<b>11.00 Uhr Dom St. Marien</b><br />Hochamt mit dem Kinder- und Jugendchor (A)'
@@ -17,3 +14,6 @@ dates:
   - icon: 'solid fa-music'
     title: '22. März 2024'
     body: '<b>18.00 Uhr St. Wigbert</b><br />Lange Nacht der Hausmusik mit dem Ökum. Holzgebläse'
+  - icon: 'solid fa-church'
+    title: '24. März 2024'
+    body: '<b>11.00 Uhr Dom St. Marien</b><br />Hochamt zu Palmsonntag mit dem Kinder- und Jugendchor (A+B)'

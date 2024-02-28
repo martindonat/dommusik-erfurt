@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### Februar
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 27. Februar | 22.00 | St. Pankratius | Testkonzert |
-
-
 ### März
 
 | Datum | Uhrzeit | Ort | Beschreibung |
