@@ -16,8 +16,10 @@ image = '../images/Kalender_GR3.jpg'
 | 10. März | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 | 22. März | 18.00 | St. Wigbert | Lange Nacht der Hausmusik mit dem Ökum. Holzgebläse |
 | 24. März | 11.00 | Dom St. Marien | Hochamt zu Palmsonntag mit dem Kinder- und Jugendchor (A+B) |
+| 28. März | 19.30 | St. Severi | Liturgie vom Letzten Abendmahl mit dem Domchor |
 | 28. März | 23.00 | Dom St. Marien | Ölbergstunden, Abschluss gestaltet durch das Ensemble Vocale Erfurt |
 | 29. März | 15.00 | Dom St. Marien | Karfreitagsliturgie mit der Domschola |
+| 30. März | 21.30 | Dom St. Marien | Feier der Osternacht mit dem Domchor |
 
 
 ### April
@@ -47,6 +49,7 @@ image = '../images/Kalender_GR3.jpg'
 |-------|---------|-----|--------------|
 | 02. Juni | 10.00 | Domstufen | Abschlussgottesdienst zum Katholikentag mit dem Kinder- und Jugendchor (A) |
 | 08. Juni | 19.30 | Dom St. Marien | Internationales Orgelkonzert |
+| 15. Juni | 17.00 | ?? | Konzert mit dem Domchor (Mozart, Krönungsmesse) |
 | 16. Juni | 11.00 | Dom St. Marien | Hochamt mit dem Kinder- und Jugendchor (A), anschl. Schuljahresabschluss im Kreuzgang |
 | 16. Juni | 16.00 | Dom, Coelicum | Singspiel der Nachwuchschöre am Dom (B+C) |
 | 22. Juni | 19.30 | Dom St. Marien | Internationales Orgelkonzert mit Juan de la Rubia (Barcelona) |
