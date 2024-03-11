@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 10. März | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 | 22. März | 18.00 | St. Wigbert | Lange Nacht der Hausmusik mit dem Ökum. Holzgebläse |
 | 24. März | 11.00 | Dom St. Marien | Hochamt zu Palmsonntag mit dem Kinder- und Jugendchor (A+B) |
 | 28. März | 19.30 | St. Severi | Liturgie vom Letzten Abendmahl mit dem Domchor |
