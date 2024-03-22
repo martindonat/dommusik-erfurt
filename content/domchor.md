@@ -2,7 +2,7 @@
 title = 'Domchor und Domschola'
 date = 2023-11-09T12:22:59+01:00
 draft = false
-image = '../images/DOM_Konzert_MG_4063F.jpg'
+image = '../images/Domchor_Kunigundenkapelle_2018.jpg'
 +++
 
 ## Domchor Erfurt
