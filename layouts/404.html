@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+<article id="main">
+  <header {{ with .Params.image }}style="background-image: url('{{ . }}')"{{ end }}>
+    <h2>Seite wurde nicht gefunden</h2>
+	</header>
+	<section class="wrapper style5">
+		<div class="inner">
+     {{ partial "scripts.html" . }}
+
+      Die Seite existiert leider nicht. <br/><br/>
+      <a href="{{ .Site.BaseURL }}">Hier geht's zurück zur Startseite.</a>
+		</div>
+	</section>
+</article>
+{{ partial "footer.html" . }}
