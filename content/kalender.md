@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 24. März | 11.00 | Dom St. Marien | Hochamt zu Palmsonntag mit dem Kinder- und Jugendchor (A+B) und Schola |
 | 28. März | 19.30 | St. Severi | Liturgie vom Letzten Abendmahl mit dem Domchor |
 | 28. März | 23.00 | Dom St. Marien | Ölbergstunden, Abschluss gestaltet durch das Ensemble Vocale Erfurt |
 | 29. März | 15.00 | Dom St. Marien | Karfreitagsliturgie mit der Domschola |
