@@ -2,7 +2,7 @@
 title = 'Kirchenmusik in der Pfarrei St. Laurentius'
 date = 2023-11-09T12:24:59+01:00
 draft = false
-image = '../images/Erfurt_St_Severi_Dach_2015-002.jpg'
+image = '../images/Erfurt_St_Severi_Dach_2015-002_downsized.jpg'
 +++
 
 ## Kirchenmusik in der Pfarrei St. Laurentius Erfurt
