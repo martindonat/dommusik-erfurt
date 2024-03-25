@@ -43,9 +43,9 @@ Als Betreiber dieser Seiten nehmen wir den Schutz Ihrer persönlichen Daten sehr
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Verein der Freunde und Förderer der Kirchenmusik am Erfurter Dom e.V.<br/>
-c/o Dr. Christoph Drapatz (Vorsitzender)<br/>
-Steigerstraße 30<br/>
-99096 Erfurt<br/>
+c/o Susanne Borris<br/>
+Gunta-Stölzl-Strasse 26<br/>
+99085 Erfurt
 
 E-Mail: info@dommusik-erfurt.de
 
@@ -60,10 +60,9 @@ Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligun
 Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der:
 
 Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit<br/>
-Häßlerstraße 8 (4. Etage)<br/>
+Häßlerstraße 8<br/>
 99096 Erfurt<br/>
 Telefon: 0361 573112900<br/>
-Telefax: 0361 573112904<br/>
 E-Mail: poststelle@datenschutz.thueringen.de<br/>
 Website: www.tlfdi.de.
 
@@ -101,9 +100,6 @@ Speicherung der Daten erfolgt aus Sicherheitsgründen, um z. B. Missbrauchsfäll
 zu können. Müssen Daten aus Beweisgründen aufgehoben werden, sind sie solange von der
 Löschung ausgenommen bis der Vorfall endgültig geklärt ist.
 
-### Provider Hetzner Online GmbH
-
-Die Daten werden sieben Tage lang gespeichert. IP-Adressen werden in pseudonymisierter Form gespeichert.
 
 ### Cookies
 

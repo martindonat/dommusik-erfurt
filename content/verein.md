@@ -31,10 +31,19 @@ mit dem im Anhang befindlichen vereinfachten Zuwendungsnachweis und einem Kontoa
 Für größere Spenden stellen wir Ihnen eine Spendenbescheinigung aus.
 Kontaktieren Sie uns hierfür gern.
 
+#### Aktueller Vereinsvorstand
+
+Kathrin Loth – Vorsitzende<br/>
+Regina Krex – Stellvertretende Vorsitzende<br/>
+Susanne Borris – Schatzmeisterin<br/>
+Stephan Tilch – Schriftführer<br/>
+Marcus Hoffmann-Eib<br/>
+Bernadette Ziegenhagen
+
 
 #### Dokumente
 
-{{<icon class="fa fa-file-pdf">}}&nbsp;[Vereinssatzung](../documents/Mitgliedsantrag-Spendenerklaerung_V3.pdf)
+{{<icon class="fa fa-file-pdf">}}&nbsp;[Vereinssatzung](../documents/VFK_Satzung_beschlossen.pdf)
 
 {{<icon class="fa fa-pencil">}}&nbsp;[Mitgliedsantrag](../documents/Mitgliedsantrag-Spendenerklaerung_V3.pdf)
 
