@@ -6,12 +6,6 @@ unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen 
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
   - icon: 'solid fa-music'
-    title: '28. März 2024'
-    body: '<b>19.30 Uhr St. Severi</b><br />Liturgie vom Letzten Abendmahl mit dem Domchor'
-  - icon: 'solid fa-users'
-    title: '28. März 2024'
-    body: '<b>23.00 Uhr Dom St. Marien</b><br />Ölbergstunden, Abschluss gestaltet durch das Ensemble Vocale Erfurt'
-  - icon: 'solid fa-music'
     title: '29. März 2024'
     body: '<b>15.00 Uhr Dom St. Marien</b><br />Karfreitagsliturgie mit der Domschola'
   - icon: 'solid fa-music'

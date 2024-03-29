@@ -13,8 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 28. März | 19.30 | St. Severi | Liturgie vom Letzten Abendmahl mit dem Domchor |
-| 28. März | 23.00 | Dom St. Marien | Ölbergstunden, Abschluss gestaltet durch das Ensemble Vocale Erfurt |
 | 29. März | 15.00 | Dom St. Marien | Karfreitagsliturgie mit der Domschola |
 | 30. März | 21.30 | Dom St. Marien | Feier der Osternacht mit dem Domchor |
 
