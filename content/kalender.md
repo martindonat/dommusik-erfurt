@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### März
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 30. März | 21.30 | Dom St. Marien | Feier der Osternacht mit dem Domchor |
-
-
 ### April
 
 | Datum | Uhrzeit | Ort | Beschreibung |
