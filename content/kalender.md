@@ -13,8 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 13. April | 18.00 | Ev. Kirche / Gräfenroda | Vesper mit dem Ökum. Holzgebläse |
-| 13. April | 22.00 | Dom St. Marien | Nachtkonzert: Vox Luminis & Caroline Shaw |
 | 14. April | 11.00 | Dom St. Marien | Hochamt mit dem Kinder- und Jugendchor (A) |
 | 28. April | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 
