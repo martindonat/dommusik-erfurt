@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 14. April | 11.00 | Dom St. Marien | Hochamt mit dem Kinder- und Jugendchor (A) |
 | 28. April | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 
 
