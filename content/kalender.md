@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### April
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 28. April | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
-
-
 ### Mai
 
 | Datum | Uhrzeit | Ort | Beschreibung |

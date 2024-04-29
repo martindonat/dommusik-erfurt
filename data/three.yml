@@ -5,9 +5,6 @@ subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerlitu
 unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.'
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
-  - icon: 'solid fa-church'
-    title: '28. April 2024'
-    body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt mit der Domschola'
   - icon: 'solid fa-music'
     title: '01. Mai 2024'
     body: '<b>19.00 Uhr Dom St. Marien</b><br />Eröffnung der Maiandachten mit dem Domchor'
@@ -17,3 +14,6 @@ dates:
   - icon: 'solid fa-music'
     title: '25. Mai 2024'
     body: '<b>19.30 Uhr Dom St. Marien</b><br />Eröffnungskonzert der Internationalen Orgelkonzerte mit Silvius von Kessel und Benedikt Kristjánsson'
+  - icon: 'solid fa-church'
+    title: '26. Mai 2024'
+    body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt mit der Domschola'
