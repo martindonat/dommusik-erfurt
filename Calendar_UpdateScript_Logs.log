@@ -1355,3 +1355,26 @@
 2024-04-29 02:27:23,133 - INFO - Number of displayed events will be: 4
 2024-04-29 02:27:23,133 - INFO - Writing a new file "data/three.yml"...
 2024-04-29 02:27:23,134 - INFO - END: calendar script ended succesfully
+2024-04-30 02:25:55,261 - INFO - START: starting calendar script...
+2024-04-30 02:25:55,262 - INFO - Importing events from Kalender_Termine.csv...
+2024-04-30 02:25:55,269 - INFO - Removing event "Konzert Kinder- und Jugendchor (A)" from 07. Januar 2024
+2024-04-30 02:25:55,269 - INFO - Removing event "Lateinisches Hochamt mit der Domschola" from 11. Februar 2024
+2024-04-30 02:25:55,269 - INFO - Removing event "Hl. Messe mit dem Ensemble Vocale Erfurt" from 24. Februar 2024
+2024-04-30 02:25:55,269 - INFO - Removing event "Hochamt zum 2. Fastensonntag mit dem Domchor" from 25. Februar 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Hochamt mit dem Kinder- und Jugendchor (A)" from 03. März 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Lateinisches Hochamt mit der Domschola" from 10. März 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Lange Nacht der Hausmusik mit dem Ökum. Holzgebläse" from 22. März 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Hochamt zu Palmsonntag mit dem Kinder- und Jugendchor (A+B) und Schola" from 24. März 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Liturgie vom Letzten Abendmahl mit dem Domchor" from 28. März 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Ölbergstunden, Abschluss gestaltet durch das Ensemble Vocale Erfurt" from 28. März 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Karfreitagsliturgie mit der Domschola" from 29. März 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Feier der Osternacht mit dem Domchor" from 30. März 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Vesper mit dem Ökum. Holzgebläse" from 13. April 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Nachtkonzert: Vox Luminis & Caroline Shaw" from 13. April 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Hochamt mit dem Kinder- und Jugendchor (A)" from 14. April 2024
+2024-04-30 02:25:55,270 - INFO - Removing event "Lateinisches Hochamt mit der Domschola" from 28. April 2024
+2024-04-30 02:25:55,270 - INFO - Writing a overview file "content/kalender.md"...
+2024-04-30 02:25:55,270 - INFO - Overview file "content/kalender.md" written...
+2024-04-30 02:25:55,270 - INFO - Number of displayed events will be: 4
+2024-04-30 02:25:55,270 - INFO - Writing a new file "data/three.yml"...
+2024-04-30 02:25:55,271 - INFO - END: calendar script ended succesfully
