@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 01. Mai | 19.00 | Dom St. Marien | Eröffnung der Maiandachten mit dem Domchor |
 | 18. Mai | 11.00 | Dom St. Marien | Hl. Messe und Priesterweihe mit dem Kinder- und Jugendchor (A) |
 | 25. Mai | 19.30 | Dom St. Marien | Eröffnungskonzert der Internationalen Orgelkonzerte mit Silvius von Kessel und Benedikt Kristjánsson |
 | 26. Mai | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
