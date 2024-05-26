@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 25. Mai | 19.30 | Dom St. Marien | Eröffnungskonzert der Internationalen Orgelkonzerte mit Silvius von Kessel und Benedikt Kristjánsson |
 | 26. Mai | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 | 29. Mai | 00.00 | Kaufmannskirche | Begegnungsabend zum Katholikentag mit dem Ökum. Holzgebläse |
 | 31. Mai | 18.30 | Predigerkirche | Friedensgebet mit dem Kinder- und Jugendchor und dem Jugendkathedralchor Berlin |
