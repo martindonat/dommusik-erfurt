@@ -5,9 +5,6 @@ subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerlitu
 unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.'
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
-  - icon: 'solid fa-church'
-    title: '26. Mai 2024'
-    body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt mit der Domschola'
   - icon: 'solid fa-music'
     title: '29. Mai 2024'
     body: '<b>00.00 Uhr Kaufmannskirche</b><br />Begegnungsabend zum Katholikentag mit dem Ökum. Holzgebläse'
@@ -23,3 +20,6 @@ dates:
   - icon: 'solid fa-music'
     title: '15. Juni 2024'
     body: '<b>17.00 Uhr ??</b><br />Konzert mit dem Domchor (Mozart, Krönungsmesse)'
+  - icon: 'solid fa-church'
+    title: '16. Juni 2024'
+    body: '<b>11.00 Uhr Dom St. Marien</b><br />Hochamt mit dem Kinder- und Jugendchor (A), anschl. Schuljahresabschluss im Kreuzgang'
