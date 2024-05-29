@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 29. Mai | 00.00 | Kaufmannskirche | Begegnungsabend zum Katholikentag mit dem Ökum. Holzgebläse |
 | 31. Mai | 18.30 | Predigerkirche | Friedensgebet mit dem Kinder- und Jugendchor und dem Jugendkathedralchor Berlin |
 
 
