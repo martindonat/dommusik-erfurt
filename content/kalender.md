@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### Mai
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 31. Mai | 18.30 | Predigerkirche | Friedensgebet mit dem Kinder- und Jugendchor und dem Jugendkathedralchor Berlin |
-
-
 ### Juni
 
 | Datum | Uhrzeit | Ort | Beschreibung |
