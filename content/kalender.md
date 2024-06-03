@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 02. Juni | 10.00 | Domstufen | Abschlussgottesdienst zum Katholikentag mit dem Kinder- und Jugendchor (A) |
 | 08. Juni | 19.30 | Dom St. Marien | Internationales Orgelkonzert |
 | 15. Juni | 17.00 | ?? | Konzert mit dem Domchor (Mozart, Krönungsmesse) |
 | 16. Juni | 11.00 | Dom St. Marien | Hochamt mit dem Kinder- und Jugendchor (A), anschl. Schuljahresabschluss im Kreuzgang |
