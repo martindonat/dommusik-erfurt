@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 15. Juni | 17.00 | ?? | Konzert mit dem Domchor (Mozart, Krönungsmesse) |
 | 16. Juni | 11.00 | Dom St. Marien | Hochamt mit dem Kinder- und Jugendchor (A), anschl. Schuljahresabschluss im Kreuzgang |
 | 16. Juni | 16.00 | Dom, Coelicum | Singspiel der Nachwuchschöre am Dom (B+C) |
 | 22. Juni | 19.30 | Dom St. Marien | Internationales Orgelkonzert mit Juan de la Rubia (Barcelona) |
