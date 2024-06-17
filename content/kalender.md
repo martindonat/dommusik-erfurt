@@ -13,8 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 16. Juni | 11.00 | Dom St. Marien | Hochamt mit dem Kinder- und Jugendchor (A), anschl. Schuljahresabschluss im Kreuzgang |
-| 16. Juni | 16.00 | Dom, Coelicum | Singspiel der Nachwuchschöre am Dom (B+C) |
 | 22. Juni | 19.30 | Dom St. Marien | Internationales Orgelkonzert mit Juan de la Rubia (Barcelona) |
 | 29. Juni | 19.30 | Dom St. Marien | Internationales Orgelkonzert mit Jennifer Chou (Melbourne) |
 | 30. Juni | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
