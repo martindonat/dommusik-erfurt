@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### Juni
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 30. Juni | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
-
-
 ### Juli
 
 | Datum | Uhrzeit | Ort | Beschreibung |
