@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 04. Juli | 19.30 | Dom St. Marien | Prüfungs-Orgelkonzert (Eszter Szedmàk) |
 | 06. Juli | 19.30 | Dom St. Marien | Internationales Orgelkonzert |
 | 11. Juli | 19.30 | Dom St. Marien | Prüfungs-Orgelkonzert (Luka Posavec) |
 | 13. Juli | 19.30 | Dom St. Marien | Internationales Orgelkonzert |
