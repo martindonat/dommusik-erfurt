@@ -3675,3 +3675,44 @@
 2024-07-13 02:34:34,814 - INFO - Number of displayed events will be: 4
 2024-07-13 02:34:34,814 - INFO - Writing a new file "data/three.yml"...
 2024-07-13 02:34:34,814 - INFO - END: calendar script ended succesfully
+2024-07-14 02:41:55,290 - INFO - START: starting calendar script...
+2024-07-14 02:41:55,291 - INFO - Importing events from Kalender_Termine.csv...
+2024-07-14 02:41:55,301 - INFO - Removing event "Konzert Kinder- und Jugendchor (A)" from 07. Januar 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Lateinisches Hochamt mit der Domschola" from 11. Februar 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Hl. Messe mit dem Ensemble Vocale Erfurt" from 24. Februar 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Hochamt zum 2. Fastensonntag mit dem Domchor" from 25. Februar 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Hochamt mit dem Kinder- und Jugendchor (A)" from 03. März 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Lateinisches Hochamt mit der Domschola" from 10. März 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Lange Nacht der Hausmusik mit dem Ökum. Holzgebläse" from 22. März 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Hochamt zu Palmsonntag mit dem Kinder- und Jugendchor (A+B) und Schola" from 24. März 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Liturgie vom Letzten Abendmahl mit dem Domchor" from 28. März 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Ölbergstunden, Abschluss gestaltet durch das Ensemble Vocale Erfurt" from 28. März 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Karfreitagsliturgie mit der Domschola" from 29. März 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Feier der Osternacht mit dem Domchor" from 30. März 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Vesper mit dem Ökum. Holzgebläse" from 13. April 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Nachtkonzert: Vox Luminis & Caroline Shaw" from 13. April 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Hochamt mit dem Kinder- und Jugendchor (A)" from 14. April 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Lateinisches Hochamt mit der Domschola" from 28. April 2024
+2024-07-14 02:41:55,301 - INFO - Removing event "Eröffnung der Maiandachten mit dem Domchor" from 01. Mai 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Hl. Messe und Priesterweihe mit dem Kinder- und Jugendchor (A)" from 18. Mai 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Eröffnungskonzert der Internationalen Orgelkonzerte mit Silvius von Kessel und Benedikt Kristjánsson" from 25. Mai 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Lateinisches Hochamt mit der Domschola" from 26. Mai 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Begegnungsabend zum Katholikentag mit dem Ökum. Holzgebläse" from 29. Mai 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Friedensgebet mit dem Kinder- und Jugendchor und dem Jugendkathedralchor Berlin" from 31. Mai 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Abschlussgottesdienst zum Katholikentag mit dem Kinder- und Jugendchor (A)" from 02. Juni 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Internationales Orgelkonzert" from 08. Juni 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Konzert mit dem Domchor (Mozart, Krönungsmesse)" from 15. Juni 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Hochamt mit dem Kinder- und Jugendchor (A), anschl. Schuljahresabschluss im Kreuzgang" from 16. Juni 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Singspiel der Nachwuchschöre am Dom (B+C)" from 16. Juni 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Internationales Orgelkonzert mit Juan de la Rubia (Barcelona)" from 22. Juni 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Internationales Orgelkonzert mit Jennifer Chou (Melbourne)" from 29. Juni 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Lateinisches Hochamt mit der Domschola" from 30. Juni 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Prüfungs-Orgelkonzert (Eszter Szedmàk)" from 04. Juli 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Internationales Orgelkonzert" from 06. Juli 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Prüfungs-Orgelkonzert (Luka Posavec)" from 11. Juli 2024
+2024-07-14 02:41:55,302 - INFO - Removing event "Internationales Orgelkonzert" from 13. Juli 2024
+2024-07-14 02:41:55,302 - INFO - Writing a overview file "content/kalender.md"...
+2024-07-14 02:41:55,302 - INFO - Overview file "content/kalender.md" written...
+2024-07-14 02:41:55,302 - INFO - Number of displayed events will be: 4
+2024-07-14 02:41:55,302 - INFO - Writing a new file "data/three.yml"...
+2024-07-14 02:41:55,303 - INFO - END: calendar script ended succesfully

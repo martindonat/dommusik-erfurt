@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### Juli
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 13. Juli | 19.30 | Dom St. Marien | Internationales Orgelkonzert |
-
-
 ### August
 
 | Datum | Uhrzeit | Ort | Beschreibung |
