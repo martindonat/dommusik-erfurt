@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 17. August | 19.30 | Cruciskirche | Orgelkonzert an historischer Barockorgel |
 | 24. August | 19.30 | Cruciskirche | Orgelkonzert an historischer Barockorgel |
 | 25. August | 00.00 | ?? | Hl. Messe mit dem Ökum. Holzgebläse |
 
