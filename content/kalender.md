@@ -9,14 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### August
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 24. August | 19.30 | Cruciskirche | Orgelkonzert an historischer Barockorgel |
-| 25. August | 00.00 | ?? | Hl. Messe mit dem Ökum. Holzgebläse |
-
-
 ### September
 
 | Datum | Uhrzeit | Ort | Beschreibung |
