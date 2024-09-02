@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 01. September | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 | 17. September | 19.30 | Dom St. Marien | Konzert im Rahmen der Erfurter Kirchenmusiktage: Gregorianischer Choral und Orgel |
 | 21. September | 19.30 | Dom St. Marien | Abschlußkonzert der Erfurter Kirchenmusiktage: Anton Bruckner / Messe d-moll |
 
