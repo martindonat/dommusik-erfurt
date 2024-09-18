@@ -5,9 +5,6 @@ subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerlitu
 unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.'
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
-  - icon: 'solid fa-users'
-    title: '17. September 2024'
-    body: '<b>19.30 Uhr Dom St. Marien</b><br />Konzert im Rahmen der Erfurter Kirchenmusiktage: Gregorianischer Choral und Orgel'
   - icon: 'solid fa-church'
     title: '21. September 2024'
     body: '<b>19.30 Uhr Dom St. Marien</b><br />Abschlußkonzert der Erfurter Kirchenmusiktage: Anton Bruckner / Messe d-moll'
@@ -17,3 +14,6 @@ dates:
   - icon: 'solid fa-music'
     title: '19. Oktober 2024'
     body: '<b>19.30 Uhr Cruciskirche</b><br />Studenten-Orgelkonzert (HfM Weimar) in der Cruciskirche und im Dom (Jonas Dippon)'
+  - icon: 'solid fa-church'
+    title: '20. Oktober 2024'
+    body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt mit der Domschola'
