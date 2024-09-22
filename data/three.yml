@@ -5,9 +5,6 @@ subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerlitu
 unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.'
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
-  - icon: 'solid fa-church'
-    title: '21. September 2024'
-    body: '<b>19.30 Uhr Dom St. Marien</b><br />Abschlußkonzert der Erfurter Kirchenmusiktage: Anton Bruckner / Messe d-moll'
   - icon: 'solid fa-music'
     title: '05. Oktober 2024'
     body: '<b>19.30 Uhr Dom St. Marien</b><br />Orgelkonzert: Hans-Ola Ericsson / Olivier Messiaen: Livre du Saint Sacrement'
@@ -17,3 +14,6 @@ dates:
   - icon: 'solid fa-church'
     title: '20. Oktober 2024'
     body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt mit der Domschola'
+  - icon: 'solid fa-music'
+    title: '27. Oktober 2024'
+    body: '<b>11.00 Uhr Dom St. Marien</b><br />Kirchweihfest mit dem Domchor'

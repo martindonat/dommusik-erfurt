@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### September
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 21. September | 19.30 | Dom St. Marien | Abschlußkonzert der Erfurter Kirchenmusiktage: Anton Bruckner / Messe d-moll |
-
-
 ### Oktober
 
 | Datum | Uhrzeit | Ort | Beschreibung |
