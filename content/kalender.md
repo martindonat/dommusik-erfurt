@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 05. Oktober | 19.30 | Dom St. Marien | Orgelkonzert: Hans-Ola Ericsson / Olivier Messiaen: Livre du Saint Sacrement |
 | 19. Oktober | 19.30 | Cruciskirche | Studenten-Orgelkonzert (HfM Weimar) in der Cruciskirche und im Dom (Jonas Dippon) |
 | 20. Oktober | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 | 27. Oktober | 11.00 | Dom St. Marien | Kirchweihfest mit dem Domchor |

@@ -6,9 +6,6 @@ unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen 
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
   - icon: 'solid fa-music'
-    title: '05. Oktober 2024'
-    body: '<b>19.30 Uhr Dom St. Marien</b><br />Orgelkonzert: Hans-Ola Ericsson / Olivier Messiaen: Livre du Saint Sacrement'
-  - icon: 'solid fa-music'
     title: '19. Oktober 2024'
     body: '<b>19.30 Uhr Cruciskirche</b><br />Studenten-Orgelkonzert (HfM Weimar) in der Cruciskirche und im Dom (Jonas Dippon)'
   - icon: 'solid fa-church'
@@ -17,3 +14,6 @@ dates:
   - icon: 'solid fa-music'
     title: '27. Oktober 2024'
     body: '<b>11.00 Uhr Dom St. Marien</b><br />Kirchweihfest mit dem Domchor'
+  - icon: 'solid fa-church'
+    title: '17. November 2024'
+    body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt mit der Domschola'
