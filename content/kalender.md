@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 20. Oktober | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 | 27. Oktober | 11.00 | Dom St. Marien | Kirchweihfest mit dem Domchor |
 
 
