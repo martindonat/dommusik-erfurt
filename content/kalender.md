@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### Oktober
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 27. Oktober | 11.00 | Dom St. Marien | Kirchweihfest mit dem Domchor |
-
-
 ### November
 
 | Datum | Uhrzeit | Ort | Beschreibung |
