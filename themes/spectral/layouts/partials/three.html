@@ -6,13 +6,8 @@
       <h2>{{ .title }}</h2>
       <p>{{ .subtitle | safeHTML }}</p>
 		</header>
-		<ul class="features">
-      {{ range .dates }}
-      <li class="icon {{ .icon }}">
-        <h3>{{ .title | safeHTML }}</h3>
-        <p>{{ .body | safeHTML }}</p>
-			</li>
-      {{ end }}
+		<ul class="features"  id="appointment">
+     
 		</ul>
 	     <p>{{ .subsubtitle | safeHTML }}</p>
 	</div>

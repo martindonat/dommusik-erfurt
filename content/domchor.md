@@ -12,9 +12,9 @@ image = '../images/Domchor_Kunigundenkapelle_2018.jpg'
 |Chorprobe| Montags, 19.30 bis 21.30 Uhr, ggf. weitere Proben nach Vereinbarung.|
 |Probenraum|Domstraße 10, 99084 Erfurt|
 
- Der "Domchor Erfurt" wurde unter diesem Namen im Jahre 1994 neu gegründet. Bis 1993 hatte ein "Domchor" existiert, der seinerseits aus dem schon in der Mitte des 19. Jh. bezeugten "Domgesangverein" hervorgegangen war. Der zunächst kleine Chor vergrößerte sich in den Folgejahren und hat heute etwa 60 Mitglieder.
+Der “Domchor Erfurt” wurde unter diesem Namen im Jahre 1994 neu gegründet und setzt die Tradition des Chorgesangs auf dem Domberg fort. Bis 1993 hatte ein “Domchor” existiert, der seinerseits aus dem schon in der Mitte des 19. Jahrhunderts bezeugten “Domgesangverein” hervorgegangen war. Der zunächst kleine Chor vergrößerte sich in den Folgejahren. Nach einem Mitgliederrückgang infolge der Corona-Pandemie freut sich der Chor auf neue Interessenten und Mitglieder. Schauen Sie gern herein!
 
-Inzwischen ist der "Domchor Erfurt" einer der bedeutenden Chöre in Thüringen. Als katholischer Oratorienchor in Erfurt, dem auch evangelische und konfessionslose Mitglieder angehören, gestaltet er einerseits die großen liturgischen Feste im Dom musikalisch mit – hier singt er vorwiegend a-cappella-Werke – und führt zugleich regelmäßig große Werke der Chor-Orchester-Literatur in Konzerten auf.
+Als katholischer Kirchenchor, dem auch evangelische und konfessionslose Mitglieder angehören, gestaltet er die großen liturgischen Feste im Dom musikalisch mit – hier singt er vorwiegend a-cappella-Werke – und führt zu den Kirchenmusiktagen Werke der Chor-Orchester-Literatur im Konzert auf.
 
 ### Leitung: Ekkehard Fellner
 

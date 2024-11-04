@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.dommusik-erfurt.de/kalender/</loc>
+    <loc>http://localhost:1313/kalender/</loc>
     <lastmod>2024-02-04T16:48:08+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-02-04T16:48:08+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/datenschutz/</loc>
+    <loc>http://localhost:1313/datenschutz/</loc>
     <lastmod>2023-12-13T08:47:54+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/impressum/</loc>
+    <loc>http://localhost:1313/impressum/</loc>
     <lastmod>2023-11-09T12:25:23+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/kontakt/</loc>
+    <loc>http://localhost:1313/kontakt/</loc>
     <lastmod>2023-11-09T12:25:16+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/pfarrei/</loc>
+    <loc>http://localhost:1313/pfarrei/</loc>
     <lastmod>2023-11-09T12:24:59+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/orgel/</loc>
+    <loc>http://localhost:1313/orgel/</loc>
     <lastmod>2023-11-09T12:23:05+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/domchor/</loc>
+    <loc>http://localhost:1313/domchor/</loc>
     <lastmod>2023-11-09T12:22:59+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/verein/</loc>
+    <loc>http://localhost:1313/verein/</loc>
     <lastmod>2023-11-09T12:22:54+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/kujchor/</loc>
+    <loc>http://localhost:1313/kujchor/</loc>
     <lastmod>2023-11-09T12:03:24+01:00</lastmod>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://www.dommusik-erfurt.de/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
