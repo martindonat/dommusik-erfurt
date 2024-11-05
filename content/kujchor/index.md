@@ -7,7 +7,7 @@ image = '../images/KJchorErfurterDom_Kreuzgang_EF_cropped.jpg'
 
 ## Kinder- und Jugendchor am Erfurter Dom
 
-Der Kinder- und Jugendchor am Erfurter Dom hat sich seit seiner Gründung im Jahr 2003 zu einem der größten kirchlichen Jugendchöre im Osten Deutschlands entwickelt. Heute kommen etwa 130 Mädchen und Jungen zu den wöchentlichen Proben, die in 4 getrennten Altersstufen stattfinden. Seit 2024 ist die höchste Alterstufe, der Konzertchor, zudem geteilt in einen Mädchenchor und einen vierstimmigen Knabenchor.
+Der Kinder- und Jugendchor am Erfurter Dom hat sich seit seiner Gründung im Jahr 2003 zu einem der größten kirchlichen Jugendchöre im Osten Deutschlands entwickelt. Heute kommen etwa 130 Mädchen und Jungen zu den wöchentlichen Proben, die in 4 getrennten Altersstufen stattfinden. Seit 2024 ist die höchste Alterstufe, der Konzertchor, zudem geteilt in den Mädchenchor und einen gemischtstimmig singenden Knabenchor.
 
 Anliegen des Chores ist es, Freude an Musik und am Singen in der Gemeinschaft zu vermitteln, im Gottesdienst zum Lob Gottes zu singen und den christlichen Glauben durch Musik und Gesang zu verkünden. Im Chor erfahren die Kinder und Jugendlichen Gemeinschaft in einer frohen, jungen und lebendigen Kirche. Neben der musikalischen Arbeit möchte der Chor für die Kinder und Jugendlichen eine Einladung sein, auf selbstverständliche Art und Weise in den Glauben hineinzuwachsen.
 
@@ -26,8 +26,8 @@ Mittelpunkt der Aktivitäten ist die musikalische Gestaltung der Liturgie im Dom
 |Stimmgruppenprobe| Dienstags, 16.30 bis 17.30 Uhr, im dreiwöchigen Rhythmus|
 |Probenraum|Brunnenkirche, Fischersand 24, 99084 Erfurt|
 
-Mädchen nach der Grundschulzeit werden in den A-Chor des Kinder- und Jugendchores aufgenommen. Der A-Chor singt mehrstimmige Literatur für gleiche Stimmen (Sopran und Alt), angefangen bei Stücken Alter Meister bis hin zu zeitgenössischen Werken. Zu den wöchentlichen Gesamtproben kommen Stimmgruppen-Proben hinzu. Innerhalb der Probenzeit bekommen die Kinder individuellen Unterricht in Stimmbildung. Der A-Chor singt an Sonn- und Festtagen in der Liturgie im Erfurter Dom. Gelegentlich stehen zudem Konzerte, Chorfahrten und auswärtige Chorauftritte auf dem Programm.
-Das jährliche, auswärtige Probenwochenende ist eine Zeit intensiver Probenarbeit, aber auch der Pflege der Chorgemeinschaft mit gemeinschaftlicher Freizeitgestaltung, geistlichen Impulsen und gemeinsamen Gebetszeiten.
+Mädchen nach der Grundschulzeit werden in den A-Chor des Kinder- und Jugendchores aufgenommen. Als Mädchenchor singt der A-Chor mehrstimmige Literatur für gleiche Stimmen (Sopran und Alt), angefangen bei Stücken Alter Meister bis hin zu zeitgenössischen Werken. Zu den wöchentlichen Gesamtproben kommen Stimmgruppen-Proben hinzu. Innerhalb der Probenzeit bekommen die Kinder individuellen Unterricht in Stimmbildung. Der Chor singt an Sonn- und Festtagen in der Liturgie im Erfurter Dom. Darüber hinaus stehen Konzerte, Chorfahrten und auswärtige Chorauftritte auf dem Programm.
+Die jährliche, auswärtige Probenwoche ist eine Zeit intensiver Probenarbeit, aber auch der Pflege der Chorgemeinschaft mit gemeinschaftlicher Freizeitgestaltung, geistlichen Impulsen und gemeinsamen Gebetszeiten.
 
 ### Knabenchor
 
@@ -38,7 +38,7 @@ Das jährliche, auswärtige Probenwochenende ist eine Zeit intensiver Probenarbe
 |Stimmgruppenprobe| Dienstags, 16 bis 20 Uhr (aufgeteilt auf drei Stimmgruppen)|
 |Probenraum|Brunnenkirche, Fischersand 24, 99084 Erfurt|
 
-Seit 2024 können Jungen in einem eigenen Chor unter der Leitung von Thomas Hofereiter auch über den Stimmbruch hinweg am Erfurter Dom singen. So soll ein vierstimmiger Knabenchor entstehen, der sich das klassische Chorrepertoire von der Renaissance bis zu zeitgenössischen Kompositionen zu eigen macht. Individueller Stimmbildungsunterricht, liturgische Auftritte sowie gemeinsame Probenwochenenden sind dabei genauso inbegriffen wie für den etablierten A-Chor. Chorfahrten werden Jungen und Mädchen gemeinsam unternehmen. Der Chor befindet sich im Aufbau und heißt interessierte Sänger jederzeit willkommen!
+Seit 2024 können Jungen in einem eigenen Chor unter der Leitung von Thomas Hofereiter auch über den Stimmbruch hinweg am Erfurter Dom singen. So soll ein gemischtstimmig singender Knabenchor entstehen, der sich das klassische Chorrepertoire von der Renaissance bis zu zeitgenössischen Kompositionen zu eigen macht. Individueller Stimmbildungsunterricht, liturgische Auftritte sowie gemeinsame Probenwochenenden sind dabei genauso inbegriffen wie für den etablierten A-Chor der Mädchen. Chorfahrten werden Jungen und Mädchen gemeinsam unternehmen. Der Chor befindet sich im Aufbau und heißt interessierte Sänger jederzeit willkommen!
 
 ### B-Chor
 

@@ -25,7 +25,7 @@ Datum,Uhrzeit,Ort,Text
 08.06.2024,19.30,Dom St. Marien,Internationales Orgelkonzert
 15.06.2024,17,??,"Konzert mit dem Domchor (Mozart, Krönungsmesse)"
 16.06.2024,11,Dom St. Marien,"Hochamt mit dem Kinder- und Jugendchor (A), anschl. Schuljahresabschluss im Kreuzgang"
-16.06.2024,16,"Dom, Coelicum",Singspiel der Nachwuchschöre am Dom (B+C)
+16.06.2024,16,Brunnenkirche,Singspiel der Nachwuchschöre am Dom (B+C)
 22.06.2024,19.30,Dom St. Marien,Internationales Orgelkonzert mit Juan de la Rubia (Barcelona)
 29.06.2024,19.30,Dom St. Marien,Internationales Orgelkonzert mit Jennifer Chou (Melbourne)
 30.06.2024,11,Dom St. Marien,Lateinisches Hochamt mit der Domschola
@@ -61,3 +61,4 @@ Datum,Uhrzeit,Ort,Text
 25.12.2024,11,Dom St. Marien,Pontifikalamt mit dem Domchor
 06.01.2025,18,Dom St. Marien,Pontifikalamt zu Erscheinung des Herrn mit dem Kinder- und Jugendchor (A)
 12.01.2025,11,Dom St. Marien,Lateinisches Hochamt (Taufe des Herrn) mit der Domschola
+11.01.2025,19,Rathausfestsaal,Weihnachtskonzert des Kinder- und Jugendchores
