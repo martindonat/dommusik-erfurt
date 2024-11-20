@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 19. November | 18.00 | Dom St. Marien | Messe zum Fest der Hl. Elisabeth mit dem Domchor |
 | 24. November | 11.00 | Dom St. Marien | Hochamt zu Christkönig mit dem Kinder- und Jugendchor (A) |
 
 
