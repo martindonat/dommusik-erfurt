@@ -31,7 +31,7 @@ $(function() {
 
             // Prepare HTML for the first four appointments
             let html = "";
-            for (let i = 0; i < Math.min(appointments.length, 4); i++) {
+            for (let i = 0; i < Math.min(appointments.length, 6); i++) {
                 let appointment = appointments[i];
                 html += '<li class="icon solid fa-music">';
                 html += '<h3>' + appointment.title + '</h3>';
