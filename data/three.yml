@@ -6,9 +6,6 @@ unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen 
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
   - icon: 'solid fa-church'
-    title: '24. November 2024'
-    body: '<b>11.00 Uhr Dom St. Marien</b><br />Hochamt zu Christkönig mit dem Kinder- und Jugendchor (A)'
-  - icon: 'solid fa-church'
     title: '01. Dezember 2024'
     body: '<b>11.00 Uhr Dom St. Marien</b><br />Hochamt zum 1. Advent mit dem Kinder- und Jugendchor (A+B)'
   - icon: 'solid fa-music'
@@ -23,3 +20,6 @@ dates:
   - icon: 'solid fa-music'
     title: '14. Dezember 2024'
     body: '<b>17.00 Uhr Dom St. Marien</b><br />Adventliche Orgelmusik II'
+  - icon: 'solid fa-church'
+    title: '15. Dezember 2024'
+    body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt mit der Domschola'

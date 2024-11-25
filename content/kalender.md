@@ -9,13 +9,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## 2024
 
-### November
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 24. November | 11.00 | Dom St. Marien | Hochamt zu Christkönig mit dem Kinder- und Jugendchor (A) |
-
-
 ### Dezember
 
 | Datum | Uhrzeit | Ort | Beschreibung |
