@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 01. Dezember | 11.00 | Dom St. Marien | Hochamt zum 1. Advent mit dem Kinder- und Jugendchor (A+B) |
 | 07. Dezember | 17.00 | Dom St. Marien | Adventliche Orgelmusik I |
 | 08. Dezember | 10.30 | St. Wigbert | Hl. Messe mit dem Ökum. Holzgebläse |
 | 08. Dezember | 11.00 | Dom St. Marien | Hochamt zum 2. Advent mit dem Domchor |
