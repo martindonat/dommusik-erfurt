@@ -5,9 +5,6 @@ subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerlitu
 unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.'
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
-  - icon: 'solid fa-music'
-    title: '07. Dezember 2024'
-    body: '<b>17.00 Uhr Dom St. Marien</b><br />Adventliche Orgelmusik I'
   - icon: 'solid fa-church'
     title: '08. Dezember 2024'
     body: '<b>10.30 Uhr St. Wigbert</b><br />Hl. Messe mit dem Ökum. Holzgebläse'
@@ -23,3 +20,6 @@ dates:
   - icon: 'solid fa-music'
     title: '15. Dezember 2024'
     body: '<b>15.00 Uhr DRK Senioren- und Pflegeheim</b><br />Adventsmusik mit dem Ökum. Holzgebläse (Adresse: Arnstädter Straße 48, Erfurt)'
+  - icon: 'solid fa-church'
+    title: '22. Dezember 2024'
+    body: '<b>11.00 Uhr Dom St. Marien</b><br />Hochamt zum 4. Advent mit dem Kinder- und Jugendchor (A)'
