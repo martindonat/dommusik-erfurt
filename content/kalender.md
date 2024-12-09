@@ -13,8 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 08. Dezember | 10.30 | St. Wigbert | Hl. Messe mit dem Ökum. Holzgebläse |
-| 08. Dezember | 11.00 | Dom St. Marien | Hochamt zum 2. Advent mit dem Domchor |
 | 14. Dezember | 17.00 | Dom St. Marien | Adventliche Orgelmusik II |
 | 15. Dezember | 11.00 | Dom St. Marien | Lateinisches Hochamt mit der Domschola |
 | 15. Dezember | 15.00 | DRK Senioren- und Pflegeheim | Adventsmusik mit dem Ökum. Holzgebläse (Adresse: Arnstädter Straße 48, Erfurt) |
