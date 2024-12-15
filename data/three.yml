@@ -5,9 +5,6 @@ subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerlitu
 unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.'
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
-  - icon: 'solid fa-music'
-    title: '14. Dezember 2024'
-    body: '<b>17.00 Uhr Dom St. Marien</b><br />Adventliche Orgelmusik II'
   - icon: 'solid fa-church'
     title: '15. Dezember 2024'
     body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt mit der Domschola'
@@ -23,3 +20,6 @@ dates:
   - icon: 'solid fa-music'
     title: '24. Dezember 2024'
     body: '<b>22.00 Uhr St. Severi</b><br />Christmette mit Solisten und Trompete'
+  - icon: 'solid fa-music'
+    title: '24. Dezember 2024'
+    body: '<b>23.30 Uhr Dom St. Marien</b><br />Nächtliches Weihnachtslob mit der Regler-Posaunenschar'
