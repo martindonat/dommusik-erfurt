@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 22. Dezember | 11.00 | Dom St. Marien | Hochamt zum 4. Advent mit dem Kinder- und Jugendchor (A) |
 | 24. Dezember | 13.00 | Brunnenkirche | Weihnachtsandacht der Caritas Erfurt mit dem Ökum. Holzgebläse |
 | 24. Dezember | 22.00 | St. Severi | Christmette mit Solisten und Trompete |
 | 24. Dezember | 23.30 | Dom St. Marien | Nächtliches Weihnachtslob mit der Regler-Posaunenschar |
