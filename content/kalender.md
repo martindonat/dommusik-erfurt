@@ -7,14 +7,6 @@ image = '../images/Kalender_GR3.jpg'
 
 ## Überblick über die kommenden Veranstaltungen
 
-## 2024
-
-### Dezember
-
-| Datum | Uhrzeit | Ort | Beschreibung |
-|-------|---------|-----|--------------|
-| 25. Dezember | 11.00 | Dom St. Marien | Pontifikalamt mit dem Domchor |
-
 ## 2025
 
 ### Januar
