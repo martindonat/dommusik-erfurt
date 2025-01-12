@@ -13,7 +13,6 @@ image = '../images/Kalender_GR3.jpg'
 
 | Datum | Uhrzeit | Ort | Beschreibung |
 |-------|---------|-----|--------------|
-| 11. Januar | 19.00 | Rathausfestsaal | Weihnachtskonzert des Kinder- und Jugendchores |
 | 12. Januar | 11.00 | Dom St. Marien | Lateinisches Hochamt (Taufe des Herrn) mit der Domschola |
 
 

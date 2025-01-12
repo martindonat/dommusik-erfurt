@@ -5,9 +5,6 @@ subtitle: 'Nachfolgend finden Sie aktuelle liturgische Auftritte oder außerlitu
 unserer Chöre, Ensembles und Künstler im Dom oder in den katholischen Kirchen Erfurts.'
 subsubtitle: '<p class="icon {{ solid fa-arrow-right }}"> Weitere Termine finden Sie <a href="kalender">hier.</a>'
 dates:
-  - icon: 'solid fa-music'
-    title: '11. Januar 2025'
-    body: '<b>19.00 Uhr Rathausfestsaal</b><br />Weihnachtskonzert des Kinder- und Jugendchores'
   - icon: 'solid fa-church'
     title: '12. Januar 2025'
     body: '<b>11.00 Uhr Dom St. Marien</b><br />Lateinisches Hochamt (Taufe des Herrn) mit der Domschola'
